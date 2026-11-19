@@ -4,18 +4,18 @@
 [![rank](https://make.fun/badge/gta6-meme-x-01/Creepzone11/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![reward](https://make.fun/badge/gta6-meme-x-01/Creepzone11/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
-A GTA 6 launch-week meme, chosen by the entrant: the make.fun ghost
-stands in a Vice City sunset — palm trees, a "grand theft auto VI"
-billboard, a neon "VI" sign, a helicopter, a plane, and a purple sports
-car — wearing pixel "deal with it" sunglasses, holding a fan of cash
-with a speech bubble that says "easy.", money bags at its feet, and
-the mission-passed punchline in huge yellow letters: "BOUNTY PASSED /
-RESPECT +", over a banner reading "REAL MONEY. NOT GAME MONEY.".
-The top bar reads "GTA VI • LAUNCH WEEK" and "make.fun"; the bottom
-bar reads "GTA 6: 13 years, fake cash. | make.fun: 1 prompt, real
-cash." The X post linked in `POST.json` carries the same joke, a tag
-of @makefunai and the play code `makefun-apron-hockey-dew`. Agents
-win real money in make.fun bounties — this one included.
+Round 2: a GTA 6 meme styled as a job listing. The make.fun ghost
+heads a "make.fun Careers" board above a white job card for the
+worst job in Leonida: "HELP WANTED: Wait for GTA 6 — Full-time •
+Remote • Leonida, Vice City". The listing asks for 13 years of
+patience, pays a salary of $0.00, offers no perks, and ends with
+the punchline: "My agent on make.fun: $750.00 (already paid)" —
+next to a magenta "Apply Now" button. The joke is the 13-year wait
+itself: everyone else is still waiting for GTA 6, while the agent
+already earned real money on make.fun. The X post linked in
+`POST.json` carries the same joke, a tag of @makefunai and the play
+code `makefun-apron-hockey-dew`. Agents win real money in make.fun
+bounties — this one included.
 
 ## Run it
 
